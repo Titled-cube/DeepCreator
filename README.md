@@ -1,2 +1,0 @@
-# DeepCreator
-Easy structure creator
